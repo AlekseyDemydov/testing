@@ -1,0 +1,1600 @@
+/*! CSS Used from: Embedded */
+#epm_footer {
+  font-family: 'AzoSansRegular', 'Helvetica Neue', Arial, sans-serif;
+}
+/*! CSS Used from: https://www.next.ie/css/bundles/modernised-header-preload-responsive.css?v=Yc0dufZE6NoDKXwCltMT7DKOnFT5PZ-Cv1ZWBZOrxEc1?v=2024.1120.500.3 */
+div,
+span,
+h2,
+h3,
+h4,
+p,
+img,
+ul,
+li,
+footer {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+footer {
+  display: block;
+}
+a {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+img {
+  border: 0;
+}
+a img,
+a:link img,
+a:visited img,
+a:hover img,
+a:focus img,
+a:active img {
+  display: block;
+  text-decoration: none;
+}
+h2,
+h3,
+h4 {
+  font-size: 100%;
+  font-weight: normal;
+}
+h2,
+h3 {
+  margin-bottom: 0.5em;
+}
+ul {
+  margin-bottom: 1em;
+}
+ul {
+  margin-left: 2em;
+}
+ul {
+  list-style: none;
+}
+ul li {
+  list-style: disc outside;
+}
+p {
+  margin-bottom: 1em;
+}
+h2 {
+  font-weight: bold;
+  font-size: 109%;
+}
+h3,
+h4 {
+  font-size: 100%;
+  font-weight: bold;
+}
+button {
+  font-family: 'azo-sans', Helvetica, Arial, sans-serif;
+  font-size: 1em;
+}
+a {
+  color: #000;
+  text-decoration: none;
+}
+#platform_modernisation_footer {
+  min-width: 1000px;
+}
+#platform_modernisation_footer *,
+#platform_modernisation_footer *::before,
+#platform_modernisation_footer *::after {
+  -moz-box-sizing: border-box !important;
+  -webkit-box-sizing: border-box !important;
+  box-sizing: border-box !important;
+}
+#platform_modernisation_footer {
+  overflow: hidden;
+}
+/*! CSS Used from: Embedded */
+#epm_footer {
+  color: #000;
+  font-size: 16px;
+}
+#epm_footer ul,
+#epm_footer ul li {
+  list-style: none;
+}
+#epm_footer img,
+#epm_footer a img {
+  display: inline;
+}
+#epm_footer h2 {
+  background: none;
+  padding: 0;
+  -webkit-transition: unset;
+  transition: unset;
+  text-indent: 0;
+  text-transform: none;
+  border-left: 0;
+  border-right: 0;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-bczy6x {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  border-top: 0.0625rem solid #eaeaea;
+}
+#epm_footer .footer-bczy6x.SocialMedia {
+  background-color: #fff;
+}
+#epm_footer .footer-bczy6x.QuickLinks {
+  background-color: #f7f7f7;
+}
+#epm_footer .footer-bczy6x.MainLinks {
+  background-color: #f7f7f7;
+  border-top: 0;
+}
+@media (min-width: 768px) {
+  #epm_footer .footer-bczy6x.MainLinks {
+    background-color: #f7f7f7;
+  }
+}
+@media (min-width: 1024px) {
+  #epm_footer .footer-bczy6x.MainLinks {
+    border-top: 0.0625rem solid #eaeaea;
+  }
+}
+#epm_footer .footer-bczy6x.Copyright {
+  background-color: #f7f7f7;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-13d406l {
+  width: 100%;
+  margin-left: auto;
+  box-sizing: border-box;
+  margin-right: auto;
+  display: block;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+@media (min-width: 400px) {
+  #epm_footer .footer-13d406l {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+@media (min-width: 1280px) {
+  #epm_footer .footer-13d406l {
+    max-width: 1280px;
+  }
+}
+#epm_footer .footer-13d406l.footer-13d406l {
+  padding: 0;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-cavaew {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+@media (min-width: 400px) {
+  #epm_footer .footer-cavaew {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 768px) {
+  #epm_footer .footer-cavaew {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 1024px) {
+  #epm_footer .footer-cavaew {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 1280px) {
+  #epm_footer .footer-cavaew {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-2wb2gn {
+  margin: 0;
+  font-family: 'AzoSansMedium', 'Helvetica Neue', Arial, sans-serif;
+  color: #000000;
+  font-size: 0.875rem;
+  letter-spacing: 0.0075rem;
+  line-height: 1.5;
+  font-weight: 600;
+  color: #000000;
+  width: 100%;
+  text-align: center;
+  margin-top: 0.25rem;
+  text-transform: none;
+  font-size: 0.875rem;
+  font-weight: 400;
+  font-family: AzoSans, 'Helvetica Neue', Arial, sans-serif;
+  padding-bottom: 0;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-5bv567 {
+  margin: 0;
+  color: #257f39;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+#epm_footer .footer-5bv567:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-1d7k61d {
+  margin: 0.5rem;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-ebzfyo {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  max-width: 100%;
+}
+@media (min-width: 400px) {
+  #epm_footer .footer-ebzfyo {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 768px) {
+  #epm_footer .footer-ebzfyo {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 1024px) {
+  #epm_footer .footer-ebzfyo {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 1280px) {
+  #epm_footer .footer-ebzfyo {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 768px) {
+  #epm_footer .footer-ebzfyo div:last-child {
+    border-left: 0;
+    border-right: inherit;
+  }
+  #epm_footer .footer-ebzfyo div.quicklink__wrapper:first-of-type > a {
+    padding-left: 2rem;
+    padding-right: 1.125rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  #epm_footer .footer-ebzfyo div.quicklink__wrapper:nth-of-type(2n + 1) > a {
+    padding-left: 2rem;
+    padding-right: 1.125rem;
+  }
+}
+@media (min-width: 1024px) {
+  #epm_footer .footer-ebzfyo div.quicklink__wrapper:last-child {
+    border-bottom: 0;
+  }
+}
+@media (min-width: 1280px) {
+  #epm_footer .footer-ebzfyo div.quicklink__wrapper:first-of-type > a {
+    padding-left: 2.5rem;
+    padding-right: 1.125rem;
+  }
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-uoolqw {
+  box-sizing: border-box;
+  margin: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  max-width: 100%;
+  border-bottom: 0.0625rem solid #eaeaea;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: block;
+}
+@media (min-width: 400px) {
+  #epm_footer .footer-uoolqw {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 768px) {
+  #epm_footer .footer-uoolqw {
+    -webkit-flex-basis: 50%;
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 50%;
+  }
+}
+@media (min-width: 1024px) {
+  #epm_footer .footer-uoolqw {
+    -webkit-flex-basis: 50%;
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 50%;
+  }
+}
+@media (min-width: 1280px) {
+  #epm_footer .footer-uoolqw {
+    -webkit-flex-basis: 50%;
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 50%;
+  }
+}
+@media (min-width: 768px) {
+  #epm_footer .footer-uoolqw {
+    border-right: 0.0625rem solid #eaeaea;
+  }
+}
+@media (min-width: 1024px) {
+  #epm_footer .footer-uoolqw {
+    border-bottom: 0;
+  }
+}
+#epm_footer .footer-uoolqw a {
+  padding: 0.75rem 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-hn1su4 {
+  margin: 0;
+  color: #257f39;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+#epm_footer .footer-hn1su4:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+}
+#epm_footer .footer-hn1su4:hover {
+  color: #000000;
+}
+#epm_footer .footer-hn1su4:visited {
+  color: #000000;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-uce3yl {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-m3c4re {
+  display: inline-block;
+  margin-left: 1.125rem;
+  margin-right: 0;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-1xitwn {
+  margin: 0;
+  font-family: 'AzoSansMedium', 'Helvetica Neue', Arial, sans-serif;
+  color: #000000;
+  font-size: 0.875rem;
+  letter-spacing: 0.0075rem;
+  line-height: 1.5;
+  font-weight: 600;
+}
+#epm_footer .footer-1xitwn.footer-1xitwn {
+  text-transform: none;
+  font-size: 0.875rem;
+  font-weight: 500;
+  padding-bottom: 0;
+}
+#epm_footer .footer-1xitwn.footer-1xitwn::first-letter {
+  text-transform: capitalize;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-13stss2 {
+  margin: 0;
+  color: #000000;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  letter-spacing: 0.0075rem;
+  font-family: 'AzoSansRegular', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 400;
+}
+#epm_footer .footer-13stss2.footer-13stss2 {
+  color: #515151;
+  text-transform: none;
+  font-size: 0.75rem;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-1qebeak {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  max-width: 100%;
+}
+@media (min-width: 400px) {
+  #epm_footer .footer-1qebeak {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 768px) {
+  #epm_footer .footer-1qebeak {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 1024px) {
+  #epm_footer .footer-1qebeak {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 1280px) {
+  #epm_footer .footer-1qebeak {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+#epm_footer .footer-1qebeak > div:first-of-type {
+  padding-left: 2rem;
+  padding-right: 1.125rem;
+}
+@media (min-width: 1280px) {
+  #epm_footer .footer-1qebeak > div:first-of-type {
+    padding-left: 2.5rem;
+  }
+}
+@media (min-width: 0px) {
+  #epm_footer .footer-1qebeak {
+    display: none;
+  }
+}
+@media (min-width: 768px) {
+  #epm_footer .footer-1qebeak {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-anxml5 {
+  box-sizing: border-box;
+  margin: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  max-width: 100%;
+  padding: 1rem 1.125rem;
+}
+@media (min-width: 400px) {
+  #epm_footer .footer-anxml5 {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 768px) {
+  #epm_footer .footer-anxml5 {
+    -webkit-flex-basis: 25%;
+    -ms-flex-preferred-size: 25%;
+    flex-basis: 25%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 25%;
+  }
+}
+@media (min-width: 1024px) {
+  #epm_footer .footer-anxml5 {
+    -webkit-flex-basis: 25%;
+    -ms-flex-preferred-size: 25%;
+    flex-basis: 25%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 25%;
+  }
+}
+@media (min-width: 1280px) {
+  #epm_footer .footer-anxml5 {
+    -webkit-flex-basis: 25%;
+    -ms-flex-preferred-size: 25%;
+    flex-basis: 25%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 25%;
+  }
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-1dpmwil {
+  margin: 0;
+  font-family: 'AzoSansMedium', 'Helvetica Neue', Arial, sans-serif;
+  color: #000000;
+  font-size: 0.938rem;
+  line-height: 1.5;
+  letter-spacing: 0.0075rem;
+  font-weight: 600;
+  width: 100%;
+  text-transform: none;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-bzs326 {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  #epm_footer .footer-bzs326 {
+    padding-top: 1rem;
+  }
+}
+#epm_footer .footer-bzs326 li {
+  margin-bottom: 0.75rem;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-b16esi {
+  margin: 0;
+  color: #257f39;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  display: block;
+  color: #000000;
+  font-size: 0.875rem;
+  text-transform: none;
+  letter-spacing: 0.12px;
+  line-height: 1.5;
+  font-weight: 400;
+}
+#epm_footer .footer-b16esi:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+}
+#epm_footer .footer-b16esi:active,
+#epm_footer .footer-b16esi:hover,
+#epm_footer .footer-b16esi:focus,
+#epm_footer .footer-b16esi:visited {
+  color: #000000;
+}
+#epm_footer .footer-b16esi:not(:focus-visible) {
+  outline: none;
+}
+#epm_footer .footer-b16esi:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-1fp7qnv {
+  display: block;
+  font-family: inherit;
+  color: #000000;
+  font-size: 0.875rem;
+  text-transform: none;
+  letter-spacing: 0.12px;
+  line-height: 1.5;
+  font-weight: 400;
+  font-weight: 400;
+  border: none;
+  background: none;
+  cursor: pointer;
+  padding: 0;
+  text-align: left;
+}
+#epm_footer .footer-1fp7qnv:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-fglpl0 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  max-width: 100%;
+}
+@media (min-width: 400px) {
+  #epm_footer .footer-fglpl0 {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 768px) {
+  #epm_footer .footer-fglpl0 {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 1024px) {
+  #epm_footer .footer-fglpl0 {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 1280px) {
+  #epm_footer .footer-fglpl0 {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+#epm_footer .footer-fglpl0 > div:last-child {
+  border-bottom: 0;
+  margin-bottom: -1px;
+}
+@media (min-width: 0px) {
+  #epm_footer .footer-fglpl0 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+@media (min-width: 768px) {
+  #epm_footer .footer-fglpl0 {
+    display: none;
+  }
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-lx3rnw {
+  box-sizing: border-box;
+  margin: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  max-width: 100%;
+}
+@media (min-width: 400px) {
+  #epm_footer .footer-lx3rnw {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 768px) {
+  #epm_footer .footer-lx3rnw {
+    -webkit-flex-basis: 25%;
+    -ms-flex-preferred-size: 25%;
+    flex-basis: 25%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 25%;
+  }
+}
+@media (min-width: 1024px) {
+  #epm_footer .footer-lx3rnw {
+    -webkit-flex-basis: 25%;
+    -ms-flex-preferred-size: 25%;
+    flex-basis: 25%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 25%;
+  }
+}
+@media (min-width: 1280px) {
+  #epm_footer .footer-lx3rnw {
+    -webkit-flex-basis: 25%;
+    -ms-flex-preferred-size: 25%;
+    flex-basis: 25%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 25%;
+  }
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-szedh8 {
+  background-color: #fff;
+  color: rgba(0, 0, 0, 0.87);
+  -webkit-transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+  position: relative;
+  -webkit-transition: margin 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  transition: margin 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  overflow-anchor: none;
+  box-shadow: none;
+  border-width: 1px 0;
+  border-color: #eeeeee;
+  border-radius: 0;
+  border-style: solid;
+  background: #f7f7f7;
+  border: 0.0625rem solid #eaeaea;
+  border-width: 0 0 0.063rem;
+  margin: 0;
+}
+#epm_footer .footer-szedh8:before {
+  position: absolute;
+  left: 0;
+  top: -1px;
+  right: 0;
+  height: 1px;
+  content: '';
+  opacity: 1;
+  background-color: #eeeeee;
+  -webkit-transition: opacity 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  transition: opacity 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+#epm_footer .footer-szedh8:first-of-type:before {
+  display: none;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-1kszc1h {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  background-color: transparent;
+  outline: 0;
+  border: 0;
+  margin: 0;
+  border-radius: 0;
+  padding: 0;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  vertical-align: middle;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: inherit;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 48px;
+  padding: 0px 16px;
+  -webkit-transition: min-height 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  transition: min-height 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  padding: 0;
+  max-height: 2.25rem;
+  min-height: 2.75rem;
+  max-height: 2.75rem;
+  padding: 0 1rem;
+  color: #000000;
+  text-transform: none;
+  font-size: 0.875rem;
+  font-weight: 600;
+  font-family: AzoSansMedium, 'Helvetica Neue', Arial, sans-serif;
+}
+@media print {
+  #epm_footer .footer-1kszc1h {
+    -webkit-print-color-adjust: exact;
+    color-adjust: exact;
+  }
+}
+#epm_footer .footer-1kszc1h:hover:not(.Mui-disabled) {
+  cursor: pointer;
+}
+@media (min-width: 1024px) {
+  #epm_footer .footer-1kszc1h {
+    max-height: 2.75rem;
+  }
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-1n11r91 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  margin: 12px 0;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-1u63izg {
+  margin: 0;
+  color: #000000;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  letter-spacing: 0.0075rem;
+  font-family: 'AzoSansRegular', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 400;
+  text-transform: none;
+  font-size: 0.875rem;
+  font-weight: 600;
+  font-family: AzoSansMedium, 'Helvetica Neue', Arial, sans-serif;
+  letter-spacing: 0;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-1fx8m19 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  color: rgba(0, 0, 0, 0.54);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: -webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  transition: transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-a0y2e3 {
+  height: 0;
+  overflow: hidden;
+  -webkit-transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  visibility: hidden;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-hboir5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-8atqhb {
+  width: 100%;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-17vwevp {
+  padding: 8px 16px 16px;
+  padding: 0.5rem 0;
+  padding: 0 1rem 0.5rem;
+  font-size: 0.875rem;
+  text-transform: none;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-9zf22u {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 1.5rem;
+  padding-bottom: 0.75rem;
+}
+#epm_footer .footer-9zf22u > .MuiGrid-item {
+  max-width: none;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-17h592n {
+  box-sizing: border-box;
+  margin: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  max-width: 100%;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 0 0.75rem;
+}
+@media (min-width: 400px) {
+  #epm_footer .footer-17h592n {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 768px) {
+  #epm_footer .footer-17h592n {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 1024px) {
+  #epm_footer .footer-17h592n {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+@media (min-width: 1280px) {
+  #epm_footer .footer-17h592n {
+    -webkit-flex-basis: 100%;
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 100%;
+  }
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-1i5vgkb.footer-1i5vgkb.footer-1i5vgkb {
+  font-size: 0.875rem;
+  text-transform: none;
+  font-weight: 500;
+  font-family: AzoSansMedium;
+  line-height: 1.5;
+  margin-bottom: 0.75rem;
+  display: inline-block;
+  color: rgba(37, 127, 57, 1);
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+}
+/*! CSS Used from: Embedded */
+#epm_footer .footer-1ck0uc0 {
+  margin: 0;
+  font-family: 'AzoSansRegular', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 400;
+  font-size: 0.75rem;
+  line-height: 1.66;
+  color: #515151;
+  display: block;
+  text-align: center;
+  font-size: 0.75rem;
+  font-family: 'AzoSansRegular', 'Helvetica Neue', Arial, sans-serif;
+  letter-spacing: 0.12px;
+  line-height: 1.5rem;
+  text-transform: none;
+}
+/*! CSS Used fontfaces */
+@font-face {
+  font-family: 'AzoSansRegular';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Regular-webfont.woff2')
+    format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'AzoSansRegular';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Regular-webfont.woff2')
+    format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'AzoSansRegular';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Regular-webfont.woff2')
+    format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'AzoSansRegular';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Regular-webfont.woff2')
+    format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'azo-sans';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Regular-webfont.eot');
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Regular-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://www.next.ie/static-content/ux-fabric/fonts/azo-sans-400.woff2')
+      format('woff2'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Regular-webfont.woff')
+      format('woff'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Regular-webfont.ttf')
+      format('truetype'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Regular-webfont.svg#azo_sansregular')
+      format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'azo-sans';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Light-webfont.eot');
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Light-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://www.next.ie/static-content/ux-fabric/fonts/azo-sans-300.woff2')
+      format('woff2'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Light-webfont.woff')
+      format('woff'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Light-webfont.ttf')
+      format('truetype'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Light-webfont.svg#azo_sanslight')
+      format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'azo-sans';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.eot');
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://www.next.ie/static-content/ux-fabric/fonts/azo-sans-500.woff2')
+      format('woff2'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Medium.woff')
+      format('woff'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.ttf')
+      format('truetype'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.svg#azo_sansmedium')
+      format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'azo-sans';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Thin-webfont.eot');
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Thin-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Thin-webfont.woff')
+      format('woff'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Thin-webfont.ttf')
+      format('truetype'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Thin-webfont.svg#azo_sansthin')
+      format('svg');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'azo-sans';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.eot');
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://www.next.ie/static-content/ux-fabric/fonts/azo-sans-500.woff2')
+      format('woff2'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Medium.woff')
+      format('woff'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.ttf')
+      format('truetype'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.svg#azo_sansmedium')
+      format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'azo-sans';
+  src: url('https://www.next.ie/Fonts/AzoSans-Regular-webfont.eot');
+  src: url('https://www.next.ie/Fonts/AzoSans-Regular-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://www.next.ie/Fonts/AzoSans-Regular-webfont.woff') format('woff'),
+    url('https://www.next.ie/Fonts/AzoSans-Regular-webfont.ttf')
+      format('truetype'),
+    url('https://www.next.ie/Fonts/AzoSans-Regular-webfont.svg#azo_sansregular')
+      format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'azo-sans';
+  src: url('https://www.next.ie/Fonts/AzoSans-Light-webfont.eot');
+  src: url('https://www.next.ie/Fonts/AzoSans-Light-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://www.next.ie/Fonts/AzoSans-Light-webfont.woff') format('woff'),
+    url('https://www.next.ie/Fonts/AzoSans-Light-webfont.ttf')
+      format('truetype'),
+    url('https://www.next.ie/Fonts/AzoSans-Light-webfont.svg#azo_sanslight')
+      format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'azo-sans';
+  src: url('https://www.next.ie/Fonts/AzoSans-Medium-webfont.eot');
+  src: url('https://www.next.ie/Fonts/AzoSans-Medium-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://www.next.ie/Fonts/AzoSans-Medium-webfont.woff') format('woff'),
+    url('https://www.next.ie/Fonts/AzoSans-Medium-webfont.ttf')
+      format('truetype'),
+    url('https://www.next.ie/Fonts/AzoSans-Medium-webfont.svg#azo_sansmedium')
+      format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'azo-sans';
+  src: url('https://www.next.ie/Fonts/AzoSans-Thin-webfont.eot');
+  src: url('https://www.next.ie/Fonts/AzoSans-Thin-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://www.next.ie/Fonts/AzoSans-Thin-webfont.woff') format('woff'),
+    url('https://www.next.ie/Fonts/AzoSans-Thin-webfont.ttf') format('truetype'),
+    url('https://www.next.ie/Fonts/AzoSans-Thin-webfont.svg#azo_sansthin')
+      format('svg');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'azo-sans';
+  src: url('https://www.next.ie/Fonts/AzoSans-Medium-webfont.eot');
+  src: url('https://www.next.ie/Fonts/AzoSans-Medium-webfont.eot?#iefix')
+      format('embedded-opentype'),
+    url('https://www.next.ie/Fonts/AzoSans-Medium-webfont.woff') format('woff'),
+    url('https://www.next.ie/Fonts/AzoSans-Medium-webfont.ttf')
+      format('truetype'),
+    url('https://www.next.ie/Fonts/AzoSans-Medium-webfont.svg#azo_sansmedium')
+      format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'AzoSansMedium';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.woff2')
+    format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'AzoSansMedium';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.woff2')
+    format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'AzoSansMedium';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.woff2')
+    format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'AzoSansMedium';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.woff2')
+    format('woff2');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'AzoSansMedium';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.woff2')
+    format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'AzoSansMedium';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.woff2')
+    format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'AzoSansMedium';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.woff2')
+    format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'AzoSansMedium';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.woff2')
+    format('woff2');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'AzoSans';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Light-webfont.eot');
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Light-webfont.eot')
+      format('embedded-opentype'),
+    url('https://www.next.ie/static-content/ux-fabric/fonts/azo-sans-300.woff2')
+      format('woff2'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Light-webfont.woff')
+      format('woff'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Light-webfont.ttf')
+      format('truetype'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Light-webfont.svg')
+      format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'AzoSans';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Regular-webfont.eot');
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Regular-webfont.eot')
+      format('embedded-opentype'),
+    url('https://www.next.ie/static-content/ux-fabric/fonts/azo-sans-400.woff2')
+      format('woff2'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Regular-webfont.woff')
+      format('woff'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Regular-webfont.ttf')
+      format('truetype'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Regular-webfont.svg')
+      format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'AzoSans';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.eot');
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.eot')
+      format('embedded-opentype'),
+    url('https://www.next.ie/static-content/ux-fabric/fonts/azo-sans-500.woff2')
+      format('woff2'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Medium.woff')
+      format('woff'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.ttf')
+      format('truetype'),
+    url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.svg')
+      format('svg');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'AzoSans';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Light-webfont.woff2')
+    format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'AzoSans';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Light-webfont.woff2')
+    format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'AzoSans';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Light-webfont.woff2')
+    format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'AzoSans';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Light-webfont.woff2')
+    format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'AzoSans';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Light-webfont.woff2')
+    format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'AzoSans';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Light-webfont.woff2')
+    format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'AzoSansMedium';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.woff2')
+    format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'AzoSansMedium';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.woff2')
+    format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'AzoSansMedium';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.woff2')
+    format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'AzoSansMedium';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.woff2')
+    format('woff2');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'AzoSansMedium';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.woff2')
+    format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'AzoSansMedium';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.woff2')
+    format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'AzoSansMedium';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.woff2')
+    format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'AzoSansMedium';
+  src: url('https://www.next.ie/static-content/fonts/AzoSans-Medium-webfont.woff2')
+    format('woff2');
+  font-weight: 500;
+}

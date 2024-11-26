@@ -1,0 +1,1679 @@
+/*! CSS Used from: Embedded */
+div,
+p {
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+}
+p {
+  margin: 0;
+}
+@media screen and (min-width: 48em) {
+  ._f-helper_hide-AboveTablet-9f8620 {
+    display: none !important;
+  }
+}
+._f-sr-only-2756d3 {
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+._f-db-d2ba8a {
+  display: block;
+}
+._f-dib-3b9ea7 {
+  display: inline-block;
+}
+@media screen and (min-width: 36em) {
+  ._f-dn-ns-cf8b16 {
+    display: none;
+  }
+}
+._f-flex-c3a12c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+._f-flex-column-91540e {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+}
+._f-flex-wrap-85a32e {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+._f-items-center-67f653 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+._f-justify-between-338fe5 {
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+}
+._f-justify-around-c1e7fe {
+  -webkit-justify-content: space-around;
+  justify-content: space-around;
+}
+._f-normal-d1745d {
+  font-weight: 400;
+}
+._f-h-auto-8a3b6b {
+  height: auto;
+}
+._f-link-1c8d7c {
+  text-decoration: none;
+}
+._f-link-1c8d7c,
+._f-link-1c8d7c:active,
+._f-link-1c8d7c:focus,
+._f-link-1c8d7c:hover,
+._f-link-1c8d7c:link,
+._f-link-1c8d7c:visited {
+  -webkit-transition: color 0.15s ease-in;
+  transition: color 0.15s ease-in;
+}
+._f-link-1c8d7c:focus {
+  outline: 1px dotted currentcolor;
+}
+._f-list-d7a691 {
+  list-style-type: none;
+}
+._f-mw-none-ac1a6e {
+  max-width: none;
+}
+._f-w-100-2ec53a {
+  width: 100%;
+}
+._f-w-auto-1a9f7e {
+  width: auto;
+}
+._f-overflow-hidden-4fbe93 {
+  overflow: hidden;
+}
+._f-relative-be87fc {
+  position: relative;
+}
+._f-dark-gray-05105b {
+  color: #333;
+  color: var(--gray-900);
+}
+._f-gray-8885cc {
+  color: #686868;
+  color: var(--gray-700);
+}
+._f-bg-near-white-7d5940 {
+  background-color: #f7f7f7;
+  background-color: var(--gray-100);
+}
+._f-bg-white-033e9a {
+  background-color: #fff;
+  background-color: var(--white);
+}
+._f-pa0-b2f1bf {
+  padding: 0;
+}
+._f-pa1-f3d1e7 {
+  padding: 0.25rem;
+}
+._f-pa3-ed5153 {
+  padding: 1rem;
+}
+._f-pl4-229e56 {
+  padding-left: 2rem;
+}
+._f-pr4-da6975 {
+  padding-right: 2rem;
+}
+._f-pb4-31e019 {
+  padding-bottom: 2rem;
+}
+._f-pt2-acfe83 {
+  padding-top: 0.5rem;
+}
+._f-pv3-54886b {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+._f-ph4-4629c9 {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+._f-ma0-91afa6 {
+  margin: 0;
+}
+._f-no-underline-42938b {
+  text-decoration: none;
+}
+._f-tc-7c0393 {
+  text-align: center;
+}
+._f-f6-1f7ea0 {
+  font-size: 0.875rem;
+}
+._f-pointer-932ccf:hover {
+  cursor: pointer;
+}
+._f-f12-f45559 {
+  font-size: 1.2rem;
+}
+._f-pa-8-10e39b {
+  padding: 0.8rem;
+}
+._f-reinsuranceBlock-92ce15 {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+@media screen and (min-width: 36em) {
+  ._f-reinsuranceBlock-92ce15 {
+    -webkit-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    height: auto;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+  }
+}
+@media screen and (min-width: 62em) {
+  ._f-reinsuranceBlock-92ce15 {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    height: 10rem;
+  }
+  ._f-icon-260244 {
+    float: left;
+  }
+}
+._f-a-5c5cbe {
+  -webkit-box-align: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-box-pack: center;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-flex-basis: 50%;
+  flex-basis: 50%;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  font-size: 1.2rem;
+  height: 15rem;
+  -webkit-justify-content: center;
+  justify-content: center;
+  text-align: center;
+}
+._f-icon-260244 {
+  height: 4.3rem;
+  line-height: 7rem;
+  margin-right: 0.3rem;
+  width: 4.3rem;
+}
+._f-iconPriceClub-22269d {
+  width: 8rem;
+}
+._f-labels-9c8601 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+._f-a-5c5cbe:first-child,
+._f-a-5c5cbe:last-child {
+  background-color: #f7f7f7;
+  background-color: var(--gray-100);
+}
+@media screen and (min-width: 36em) {
+  ._f-a-5c5cbe {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    height: 10rem;
+    padding-top: 1rem;
+  }
+  ._f-a-5c5cbe,
+  ._f-a-5c5cbe:first-child,
+  ._f-a-5c5cbe:last-child {
+    background-color: #fff;
+    background-color: var(--white);
+  }
+  ._f-labels-9c8601 {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 62em) {
+  ._f-a-5c5cbe {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-basis: auto;
+    flex-basis: auto;
+    -webkit-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    height: 4rem;
+    padding-top: 0;
+    text-align: left;
+  }
+}
+._f-labelLarge-00ee6f,
+._f-labelSmall-d212fe {
+  line-height: 1.4rem;
+}
+._f-labelSmall-d212fe {
+  font-weight: 700;
+  margin-top: 0.3rem;
+}
+@media screen and (min-width: 62em) {
+  ._f-labelSmall-d212fe {
+    color: #777;
+    font-size: 1rem;
+    line-height: 1;
+  }
+  ._f-labelLarge-00ee6f {
+    font-size: 1.4rem;
+    font-weight: 700;
+    line-height: 1;
+  }
+}
+._f-socialIcons-542bca {
+  height: 34px;
+  width: 34px;
+}
+._f-socialIconsSpace-b48d95 {
+  width: 100%;
+}
+@media screen and (min-width: 48em) {
+  ._f-socialIconsSpace-b48d95 {
+    width: 60%;
+  }
+  ._f-iconSeparator-b8d099 {
+    border-right: 2px solid;
+    border-color: #9c9c9c;
+    border-color: var(--gray-500);
+  }
+}
+._f-appsLinksContainer-c232ef {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 1.5rem 1rem 2rem;
+}
+._f-appsLinkPicContainer-27b991 {
+  -webkit-flex-basis: 100rem;
+  flex-basis: 100rem;
+  -webkit-justify-content: space-around;
+  justify-content: space-around;
+}
+@media screen and (min-width: 36em) {
+  ._f-appsLinksContainer-c232ef {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    margin: 0 auto;
+  }
+}
+@media screen and (min-width: 48em) {
+  ._f-appsLinksContainer-c232ef {
+    height: 9rem;
+    max-width: 76rem;
+  }
+}
+._f-appsLink-823673 {
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+  margin-bottom: 1.7rem;
+}
+@media screen and (min-width: 36em) {
+  ._f-appsLink-823673 {
+    font-size: 1.4rem;
+    line-height: 1.8rem;
+    margin-bottom: 0;
+    width: 38.6rem;
+  }
+  ._f-appsLinkPicContainer-27b991 {
+    -webkit-flex-basis: 32rem;
+    flex-basis: 32rem;
+  }
+}
+._f-appsButton-f91c45 {
+  -webkit-align-self: center;
+  align-self: center;
+  display: block;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  height: 4rem;
+  margin: 0 auto;
+  width: 13.5rem;
+}
+@media screen and (min-width: 36em) {
+  ._f-appsButton-f91c45 {
+    margin: 0;
+  }
+}
+._f-img-a515e3 {
+  padding: 16px 0;
+  width: 91px;
+}
+._f-anchor-933157 {
+  color: #777;
+  font-size: 1.2rem;
+  line-height: 1.7rem;
+}
+@media screen and (max-width: 48em) {
+  ._f-companies-9a48be {
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+  }
+}
+@media screen and (max-width: 36em) {
+  ._f-companies-9a48be {
+    padding: 0.82rem;
+  }
+}
+@media screen and (max-width: 20em) {
+  ._f-companies-9a48be {
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    margin-bottom: -0.6rem;
+    padding: 2.1rem 0 0;
+  }
+  ._f-list-21bee8 {
+    margin-bottom: 2.3rem;
+  }
+}
+._f-container-5f6655:after {
+  border-bottom: 1px solid #aaa;
+  border-right: 1px solid #aaa;
+  content: '';
+  height: 0.7rem;
+  margin: 0.5rem;
+  pointer-events: none;
+  position: absolute;
+  right: 1rem;
+  top: 0.7rem;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  width: 0.7rem;
+}
+@media screen and (max-width: 48em) {
+  ._f-container-5f6655 {
+    display: none;
+  }
+}
+._f-select-e20ab2 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: 0.1rem solid #ddd;
+  border-radius: 0.4rem;
+  color: #4a4a4a;
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+  padding: 1.1rem 2.2rem 1.1rem 1rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 15rem;
+}
+@media screen and (max-width: 36em) {
+  ._f-container-968162 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+}
+._f-groupedLinksLabel-94fc04,
+._f-linkItem-feb18f {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 6rem;
+}
+._f-icon-fe9f1d {
+  display: block;
+  height: 2.4rem;
+  margin-right: 1rem;
+  width: 2.4rem;
+}
+._f-groupedLinksLabel-94fc04 {
+  background-color: #fff;
+  background-color: var(--white);
+  font-size: 1.6rem;
+  padding-left: 2rem;
+  position: relative;
+}
+._f-linkItem-feb18f {
+  border-bottom: 0.1rem solid #d1d1d1;
+  border-bottom: 0.1rem solid var(--gray-300);
+  font-size: 1.4rem;
+  padding-left: 6rem;
+}
+._f-iconed-b4586f {
+  padding-left: 3rem;
+}
+._f-linkIcon-388a46 {
+  display: block;
+  height: 2.4rem;
+  margin-right: 1rem;
+  width: 2.4rem;
+}
+._f-collapse-392744 {
+  display: block;
+  height: 1.6rem;
+  position: absolute;
+  right: 1.6rem;
+  top: 2.2rem;
+  width: 1.6rem;
+}
+@media screen and (max-width: 48em) {
+  ._f-pmCorpGroupList-0ee134 {
+    border-bottom: 0.1rem solid #d1d1d1;
+    border-bottom: 0.1rem solid var(--gray-300);
+  }
+  ._f-slideDown-604118,
+  ._f-slideUp-e7d2a9 {
+    overflow-y: hidden;
+    -webkit-transition: max-height 0.3s ease-in-out;
+    transition: max-height 0.3s ease-in-out;
+  }
+  ._f-slideUp-e7d2a9 {
+    max-height: 0;
+  }
+  ._f-slideDown-604118 {
+    max-height: 60rem;
+  }
+}
+@media screen and (min-width: 48em) {
+  ._f-groupedLinksLabel-94fc04,
+  ._f-linkItem-feb18f {
+    height: 3rem;
+    padding-left: 0;
+  }
+  ._f-groupedLinksLabel-94fc04 {
+    background: none;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  ._f-linkItem-feb18f {
+    border: none;
+  }
+  ._f-pmCorpGroupList-0ee134 {
+    border-bottom: none;
+  }
+  ._f-slideDown-604118,
+  ._f-slideUp-e7d2a9 {
+    height: auto;
+    max-height: none;
+  }
+}
+._f-pmCorpLinks-0dd0ce {
+  border-top: 0.1rem solid #d1d1d1;
+  border-top: 0.1rem solid var(--gray-300);
+}
+@media screen and (min-width: 48em) {
+  ._f-pmCorpLinks-0dd0ce {
+    border-top: none;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    height: 100%;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+  }
+}
+._f-paymentMethodsSpace-b37f2d {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 80%;
+}
+._f-paymentMethodsSpace-b37f2d > div {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+@media screen and (min-width: 48em) {
+  ._f-paymentMethodsSpace-b37f2d {
+    width: 40%;
+  }
+}
+._f-pmCopyright-779a48 {
+  -webkit-box-pack: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  padding-bottom: 1rem;
+}
+@media screen and (min-width: 48em) {
+  ._f-rk_Pm_Copyright-199b2b {
+    -webkit-box-align: end;
+    -webkit-box-pack: justify;
+    -webkit-align-items: flex-end;
+    align-items: flex-end;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+  }
+  ._f-pmCopyright-779a48 {
+    margin: 0 auto;
+  }
+}
+._f-anchor-a615f7 {
+  color: #000;
+  font-size: 1.2rem;
+  line-height: 1.7rem;
+  margin: 12px;
+  text-decoration: underline;
+}
+._f-links-9bdf09 {
+  -webkit-justify-content: space-around;
+  justify-content: space-around;
+  margin: auto;
+}
+@media screen and (max-width: 48em) {
+  ._f-companies-68f646 {
+    -webkit-box-pack: justify;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+  }
+}
+@media screen and (max-width: 36em) {
+  ._f-companies-68f646 {
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: 0.82rem 0 2rem;
+  }
+}
+@media screen and (max-width: 20em) {
+  ._f-companies-68f646 {
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    margin-bottom: -0.6rem;
+    padding: 2.1rem 0 0;
+  }
+  ._f-list-019121 {
+    margin-bottom: 2.3rem;
+  }
+}
+@media screen and (max-width: 36em) {
+  ._f-container-e74c42 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+}
+/*! CSS Used from: https://fr.shopping.rakuten.com/vstatic/1/stylesheets/global-vendor.040d2ffaa010423c0c11.css ; media=all */
+@media all {
+  footer {
+    display: block;
+  }
+  a {
+    -webkit-text-decoration-skip: objects;
+    background-color: transparent;
+  }
+  img {
+    border-style: none;
+  }
+  select {
+    font-family: RakutenSansUi, sans-serif;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+  }
+  select {
+    text-transform: none;
+  }
+  a,
+  div,
+  footer,
+  li,
+  p,
+  ul {
+    box-sizing: border-box;
+  }
+  img {
+    max-width: 100%;
+  }
+  .OpenSans-loaded select,
+  select {
+    font-family: RakutenSansUi, Arial, Helvetica, sans-serif;
+  }
+}
+/*! CSS Used from: Embedded */
+.css-oo0okb {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  color: #000000;
+  font-size: 1.4rem;
+  line-height: 1.214;
+  font-family: RakutenSansUi, RakutenSansUiBlack, RakutenSansUiLight,
+    RakutenSansUiSemiBold, sans-serif;
+  font-weight: 400;
+  background-color: #ffffff;
+}
+@media print {
+  .css-oo0okb {
+    background-color: #ffffff;
+  }
+}
+.css-oo0okb *,
+.css-oo0okb *::before,
+.css-oo0okb *::after {
+  box-sizing: inherit;
+}
+/*! CSS Used from: Embedded */
+.css-oo0okb {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  color: #000000;
+  font-size: 1.4rem;
+  line-height: 1.214;
+  font-family: RakutenSansUi, RakutenSansUiBlack, RakutenSansUiLight,
+    RakutenSansUiSemiBold, sans-serif;
+  font-weight: 400;
+  background-color: #ffffff;
+}
+@media print {
+  .css-oo0okb {
+    background-color: #ffffff;
+  }
+}
+.css-oo0okb *,
+.css-oo0okb *::before,
+.css-oo0okb *::after {
+  box-sizing: inherit;
+}
+/*! CSS Used from: Embedded */
+.css-oo0okb {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  color: #000000;
+  font-size: 1.4rem;
+  line-height: 1.214;
+  font-family: RakutenSansUi, RakutenSansUiBlack, RakutenSansUiLight,
+    RakutenSansUiSemiBold, sans-serif;
+  font-weight: 400;
+  background-color: #ffffff;
+}
+@media print {
+  .css-oo0okb {
+    background-color: #ffffff;
+  }
+}
+.css-oo0okb *,
+.css-oo0okb *::before,
+.css-oo0okb *::after {
+  box-sizing: inherit;
+}
+/*! CSS Used from: Embedded */
+.Foo1 {
+  color: #000000;
+  font-size: 1.4rem;
+  box-sizing: border-box;
+  font-family: RakutenSansUi, RakutenSansUiBlack, RakutenSansUiLight,
+    RakutenSansUiSemiBold, sans-serif;
+  font-weight: 400;
+  line-height: 1.214;
+  background-color: #ffffff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@media print {
+  .Foo1 {
+    background-color: #ffffff;
+  }
+}
+.Foo1 *,
+.Foo1 *::before,
+.Foo1 *::after {
+  box-sizing: inherit;
+}
+/*! CSS Used from: https://fr.shopping.rakuten.com/vstatic/1/stylesheets/defered-footer.040d2ffaa010423c0c11.css ; media=all */
+@media all {
+  @media screen and (min-width: 48em) {
+    ._f-helper_hide-AboveTablet-9f8620 {
+      display: none !important;
+    }
+  }
+  ._f-sr-only-2756d3 {
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  ._f-db-d2ba8a {
+    display: block;
+  }
+  ._f-dib-3b9ea7 {
+    display: inline-block;
+  }
+  @media screen and (min-width: 36em) {
+    ._f-dn-ns-cf8b16 {
+      display: none;
+    }
+  }
+  ._f-flex-c3a12c {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+  }
+  ._f-flex-column-91540e {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+  ._f-flex-wrap-85a32e {
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+  ._f-items-center-67f653 {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  ._f-justify-between-338fe5 {
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+  }
+  ._f-justify-around-c1e7fe {
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+  }
+  ._f-normal-d1745d {
+    font-weight: 400;
+  }
+  ._f-h-auto-8a3b6b {
+    height: auto;
+  }
+  ._f-link-1c8d7c {
+    text-decoration: none;
+  }
+  ._f-link-1c8d7c,
+  ._f-link-1c8d7c:active,
+  ._f-link-1c8d7c:focus,
+  ._f-link-1c8d7c:hover,
+  ._f-link-1c8d7c:link,
+  ._f-link-1c8d7c:visited {
+    -webkit-transition: color 0.15s ease-in;
+    transition: color 0.15s ease-in;
+  }
+  ._f-link-1c8d7c:focus {
+    outline: 1px dotted currentcolor;
+  }
+  ._f-list-d7a691 {
+    list-style-type: none;
+  }
+  ._f-mw-none-ac1a6e {
+    max-width: none;
+  }
+  ._f-w-100-2ec53a {
+    width: 100%;
+  }
+  ._f-w-auto-1a9f7e {
+    width: auto;
+  }
+  ._f-overflow-hidden-4fbe93 {
+    overflow: hidden;
+  }
+  ._f-relative-be87fc {
+    position: relative;
+  }
+  ._f-dark-gray-05105b {
+    color: #333;
+    color: var(--gray-900);
+  }
+  ._f-gray-8885cc {
+    color: #686868;
+    color: var(--gray-700);
+  }
+  ._f-bg-near-white-7d5940 {
+    background-color: #f7f7f7;
+    background-color: var(--gray-100);
+  }
+  ._f-bg-white-033e9a {
+    background-color: #fff;
+    background-color: var(--white);
+  }
+  ._f-pa0-b2f1bf {
+    padding: 0;
+  }
+  ._f-pa1-f3d1e7 {
+    padding: 0.25rem;
+  }
+  ._f-pa3-ed5153 {
+    padding: 1rem;
+  }
+  ._f-pl4-229e56 {
+    padding-left: 2rem;
+  }
+  ._f-pr4-da6975 {
+    padding-right: 2rem;
+  }
+  ._f-pb4-31e019 {
+    padding-bottom: 2rem;
+  }
+  ._f-pt2-acfe83 {
+    padding-top: 0.5rem;
+  }
+  ._f-pv3-54886b {
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+  }
+  ._f-ph4-4629c9 {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  ._f-ma0-91afa6 {
+    margin: 0;
+  }
+  ._f-no-underline-42938b {
+    text-decoration: none;
+  }
+  ._f-tc-7c0393 {
+    text-align: center;
+  }
+  ._f-f6-1f7ea0 {
+    font-size: 0.875rem;
+  }
+  ._f-pointer-932ccf:hover {
+    cursor: pointer;
+  }
+  ._f-f12-f45559 {
+    font-size: 1.2rem;
+  }
+  ._f-pa-8-10e39b {
+    padding: 0.8rem;
+  }
+  ._f-reinsuranceBlock-92ce15 {
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+  @media screen and (min-width: 36em) {
+    ._f-reinsuranceBlock-92ce15 {
+      -webkit-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+      height: auto;
+      -webkit-justify-content: space-around;
+      justify-content: space-around;
+    }
+  }
+  @media screen and (min-width: 62em) {
+    ._f-reinsuranceBlock-92ce15 {
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+      height: 10rem;
+    }
+    ._f-icon-260244 {
+      float: left;
+    }
+  }
+  ._f-a-5c5cbe {
+    -webkit-box-align: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-box-pack: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-flex-basis: 50%;
+    flex-basis: 50%;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    font-size: 1.2rem;
+    height: 15rem;
+    -webkit-justify-content: center;
+    justify-content: center;
+    text-align: center;
+  }
+  ._f-icon-260244 {
+    height: 4.3rem;
+    line-height: 7rem;
+    margin-right: 0.3rem;
+    width: 4.3rem;
+  }
+  ._f-iconPriceClub-22269d {
+    width: 8rem;
+  }
+  ._f-labels-9c8601 {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  ._f-a-5c5cbe:first-child,
+  ._f-a-5c5cbe:last-child {
+    background-color: #f7f7f7;
+    background-color: var(--gray-100);
+  }
+  @media screen and (min-width: 36em) {
+    ._f-a-5c5cbe {
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+      height: 10rem;
+      padding-top: 1rem;
+    }
+    ._f-a-5c5cbe,
+    ._f-a-5c5cbe:first-child,
+    ._f-a-5c5cbe:last-child {
+      background-color: #fff;
+      background-color: var(--white);
+    }
+    ._f-labels-9c8601 {
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+    }
+  }
+  @media screen and (min-width: 62em) {
+    ._f-a-5c5cbe {
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+      -webkit-flex-basis: auto;
+      flex-basis: auto;
+      -webkit-flex-flow: row nowrap;
+      flex-flow: row nowrap;
+      height: 4rem;
+      padding-top: 0;
+      text-align: left;
+    }
+  }
+  ._f-labelLarge-00ee6f,
+  ._f-labelSmall-d212fe {
+    line-height: 1.4rem;
+  }
+  ._f-labelSmall-d212fe {
+    font-weight: 700;
+    margin-top: 0.3rem;
+  }
+  @media screen and (min-width: 62em) {
+    ._f-labelSmall-d212fe {
+      color: #777;
+      font-size: 1rem;
+      line-height: 1;
+    }
+    ._f-labelLarge-00ee6f {
+      font-size: 1.4rem;
+      font-weight: 700;
+      line-height: 1;
+    }
+  }
+  ._f-socialIcons-542bca {
+    height: 34px;
+    width: 34px;
+  }
+  ._f-socialIconsSpace-b48d95 {
+    width: 100%;
+  }
+  @media screen and (min-width: 48em) {
+    ._f-socialIconsSpace-b48d95 {
+      width: 60%;
+    }
+    ._f-iconSeparator-b8d099 {
+      border-right: 2px solid;
+      border-color: #9c9c9c;
+      border-color: var(--gray-500);
+    }
+  }
+  ._f-appsLinksContainer-c232ef {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: 1.5rem 1rem 2rem;
+  }
+  ._f-appsLinkPicContainer-27b991 {
+    -webkit-flex-basis: 100rem;
+    flex-basis: 100rem;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+  }
+  @media screen and (min-width: 36em) {
+    ._f-appsLinksContainer-c232ef {
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+      -webkit-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+      -webkit-justify-content: space-around;
+      justify-content: space-around;
+      margin: 0 auto;
+    }
+  }
+  @media screen and (min-width: 48em) {
+    ._f-appsLinksContainer-c232ef {
+      height: 9rem;
+      max-width: 76rem;
+    }
+  }
+  ._f-appsLink-823673 {
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+    margin-bottom: 1.7rem;
+  }
+  @media screen and (min-width: 36em) {
+    ._f-appsLink-823673 {
+      font-size: 1.4rem;
+      line-height: 1.8rem;
+      margin-bottom: 0;
+      width: 38.6rem;
+    }
+    ._f-appsLinkPicContainer-27b991 {
+      -webkit-flex-basis: 32rem;
+      flex-basis: 32rem;
+    }
+  }
+  ._f-appsButton-f91c45 {
+    -webkit-align-self: center;
+    align-self: center;
+    display: block;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    height: 4rem;
+    margin: 0 auto;
+    width: 13.5rem;
+  }
+  @media screen and (min-width: 36em) {
+    ._f-appsButton-f91c45 {
+      margin: 0;
+    }
+  }
+  ._f-img-a515e3 {
+    padding: 16px 0;
+    width: 91px;
+  }
+  ._f-anchor-933157 {
+    color: #777;
+    font-size: 1.2rem;
+    line-height: 1.7rem;
+  }
+  @media screen and (max-width: 48em) {
+    ._f-companies-9a48be {
+      -webkit-box-pack: justify;
+      -webkit-justify-content: space-between;
+      justify-content: space-between;
+    }
+  }
+  @media screen and (max-width: 36em) {
+    ._f-companies-9a48be {
+      padding: 0.82rem;
+    }
+  }
+  @media screen and (max-width: 20em) {
+    ._f-companies-9a48be {
+      -webkit-flex-wrap: wrap;
+      flex-wrap: wrap;
+      -webkit-justify-content: space-around;
+      justify-content: space-around;
+      margin-bottom: -0.6rem;
+      padding: 2.1rem 0 0;
+    }
+    ._f-list-21bee8 {
+      margin-bottom: 2.3rem;
+    }
+  }
+  ._f-container-5f6655:after {
+    border-bottom: 1px solid #aaa;
+    border-right: 1px solid #aaa;
+    content: '';
+    height: 0.7rem;
+    margin: 0.5rem;
+    pointer-events: none;
+    position: absolute;
+    right: 1rem;
+    top: 0.7rem;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+    -webkit-transform-origin: center;
+    transform-origin: center;
+    width: 0.7rem;
+  }
+  @media screen and (max-width: 48em) {
+    ._f-container-5f6655 {
+      display: none;
+    }
+  }
+  ._f-select-e20ab2 {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 0.1rem solid #ddd;
+    border-radius: 0.4rem;
+    color: #4a4a4a;
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+    padding: 1.1rem 2.2rem 1.1rem 1rem;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 15rem;
+  }
+  @media screen and (max-width: 36em) {
+    ._f-container-968162 {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      flex-direction: column;
+    }
+  }
+  ._f-groupedLinksLabel-94fc04,
+  ._f-linkItem-feb18f {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    cursor: pointer;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    height: 6rem;
+  }
+  ._f-icon-fe9f1d {
+    display: block;
+    height: 2.4rem;
+    margin-right: 1rem;
+    width: 2.4rem;
+  }
+  ._f-groupedLinksLabel-94fc04 {
+    background-color: #fff;
+    background-color: var(--white);
+    font-size: 1.6rem;
+    padding-left: 2rem;
+    position: relative;
+  }
+  ._f-linkItem-feb18f {
+    border-bottom: 0.1rem solid #d1d1d1;
+    border-bottom: 0.1rem solid var(--gray-300);
+    font-size: 1.4rem;
+    padding-left: 6rem;
+  }
+  ._f-iconed-b4586f {
+    padding-left: 3rem;
+  }
+  ._f-linkIcon-388a46 {
+    display: block;
+    height: 2.4rem;
+    margin-right: 1rem;
+    width: 2.4rem;
+  }
+  ._f-collapse-392744 {
+    display: block;
+    height: 1.6rem;
+    position: absolute;
+    right: 1.6rem;
+    top: 2.2rem;
+    width: 1.6rem;
+  }
+  @media screen and (max-width: 48em) {
+    ._f-pmCorpGroupList-0ee134 {
+      border-bottom: 0.1rem solid #d1d1d1;
+      border-bottom: 0.1rem solid var(--gray-300);
+    }
+    ._f-slideDown-604118,
+    ._f-slideUp-e7d2a9 {
+      overflow-y: hidden;
+      -webkit-transition: max-height 0.3s ease-in-out;
+      transition: max-height 0.3s ease-in-out;
+    }
+    ._f-slideUp-e7d2a9 {
+      max-height: 0;
+    }
+    ._f-slideDown-604118 {
+      max-height: 60rem;
+    }
+  }
+  @media screen and (min-width: 48em) {
+    ._f-groupedLinksLabel-94fc04,
+    ._f-linkItem-feb18f {
+      height: 3rem;
+      padding-left: 0;
+    }
+    ._f-groupedLinksLabel-94fc04 {
+      background: none;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+    ._f-linkItem-feb18f {
+      border: none;
+    }
+    ._f-pmCorpGroupList-0ee134 {
+      border-bottom: none;
+    }
+    ._f-slideDown-604118,
+    ._f-slideUp-e7d2a9 {
+      height: auto;
+      max-height: none;
+    }
+  }
+  ._f-pmCorpLinks-0dd0ce {
+    border-top: 0.1rem solid #d1d1d1;
+    border-top: 0.1rem solid var(--gray-300);
+  }
+  @media screen and (min-width: 48em) {
+    ._f-pmCorpLinks-0dd0ce {
+      border-top: none;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      height: 100%;
+      -webkit-justify-content: space-around;
+      justify-content: space-around;
+      padding-bottom: 3rem;
+      padding-top: 3rem;
+    }
+  }
+  ._f-paymentMethodsSpace-b37f2d {
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 80%;
+  }
+  ._f-paymentMethodsSpace-b37f2d > div {
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+  @media screen and (min-width: 48em) {
+    ._f-paymentMethodsSpace-b37f2d {
+      width: 40%;
+    }
+  }
+  ._f-pmCopyright-779a48 {
+    -webkit-box-pack: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+    padding-bottom: 1rem;
+  }
+  @media screen and (min-width: 48em) {
+    ._f-rk_Pm_Copyright-199b2b {
+      -webkit-box-align: end;
+      -webkit-box-pack: justify;
+      -webkit-align-items: flex-end;
+      align-items: flex-end;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-justify-content: space-between;
+      justify-content: space-between;
+    }
+    ._f-pmCopyright-779a48 {
+      margin: 0 auto;
+    }
+  }
+  ._f-anchor-a615f7 {
+    color: #000;
+    font-size: 1.2rem;
+    line-height: 1.7rem;
+    margin: 12px;
+    text-decoration: underline;
+  }
+  ._f-links-9bdf09 {
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    margin: auto;
+  }
+  @media screen and (max-width: 48em) {
+    ._f-companies-68f646 {
+      -webkit-box-pack: justify;
+      -webkit-flex-wrap: wrap;
+      flex-wrap: wrap;
+      -webkit-justify-content: space-between;
+      justify-content: space-between;
+    }
+  }
+  @media screen and (max-width: 36em) {
+    ._f-companies-68f646 {
+      -webkit-flex-wrap: wrap;
+      flex-wrap: wrap;
+      padding: 0.82rem 0 2rem;
+    }
+  }
+  @media screen and (max-width: 20em) {
+    ._f-companies-68f646 {
+      -webkit-flex-wrap: wrap;
+      flex-wrap: wrap;
+      -webkit-justify-content: space-around;
+      justify-content: space-around;
+      margin-bottom: -0.6rem;
+      padding: 2.1rem 0 0;
+    }
+    ._f-list-019121 {
+      margin-bottom: 2.3rem;
+    }
+  }
+  @media screen and (max-width: 36em) {
+    ._f-container-e74c42 {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      flex-direction: column;
+    }
+  }
+}
+/*! CSS Used from: Embedded */
+.hide-in-webview {
+  display: inherit;
+}
+/*! CSS Used from: Embedded */
+.hide-in-webview {
+  display: inherit;
+}
+/*! CSS Used fontfaces */
+@font-face {
+  font-family: RakutenSansUi;
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Bd-97c36cdfc33ad26de05d3e9b6831f759.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Bd-e4281ae42dea0e8b1d0258fd0dc2f6d5.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUi;
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_BdIt-e9c05b99ed8c599ef463b5bd9a485fb2.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_BdIt-d077d86164a612b1b596ee706065577f.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUi;
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_It-08a582ff505ae8f45a1ed690233d499e.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_It-5d75399f54ac49632dd5cbb80fd1cd87.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUi;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Rg-7e3344e4a97c74a6842f6a071becd094.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Rg-48531c51b73da9f8fde9f1b5910347e9.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUi;
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Bd-97c36cdfc33ad26de05d3e9b6831f759.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Bd-e4281ae42dea0e8b1d0258fd0dc2f6d5.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUi;
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_BdIt-e9c05b99ed8c599ef463b5bd9a485fb2.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_BdIt-d077d86164a612b1b596ee706065577f.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUi;
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_It-08a582ff505ae8f45a1ed690233d499e.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_It-5d75399f54ac49632dd5cbb80fd1cd87.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUi;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Rg-7e3344e4a97c74a6842f6a071becd094.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Rg-48531c51b73da9f8fde9f1b5910347e9.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUi;
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Bd-97c36cdfc33ad26de05d3e9b6831f759.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Bd-e4281ae42dea0e8b1d0258fd0dc2f6d5.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUi;
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_BdIt-e9c05b99ed8c599ef463b5bd9a485fb2.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_BdIt-d077d86164a612b1b596ee706065577f.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUi;
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_It-08a582ff505ae8f45a1ed690233d499e.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_It-5d75399f54ac49632dd5cbb80fd1cd87.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUi;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Rg-7e3344e4a97c74a6842f6a071becd094.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Rg-48531c51b73da9f8fde9f1b5910347e9.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiBlack;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Blk-24b2e1c0ef3fa4871d0f6b8dd575f8fb.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Blk-9057c3ca27d533cc7616ad1382b5a783.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiBlack;
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_BlkIt-e52d6b952ddf089fe55aa7770a59c541.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_BlkIt-1ceb4e8781da34917aa8d916879714b7.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiBlack;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Blk-24b2e1c0ef3fa4871d0f6b8dd575f8fb.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Blk-9057c3ca27d533cc7616ad1382b5a783.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiBlack;
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_BlkIt-e52d6b952ddf089fe55aa7770a59c541.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_BlkIt-1ceb4e8781da34917aa8d916879714b7.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiBlack;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Blk-24b2e1c0ef3fa4871d0f6b8dd575f8fb.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Blk-9057c3ca27d533cc7616ad1382b5a783.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiBlack;
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_BlkIt-e52d6b952ddf089fe55aa7770a59c541.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_BlkIt-1ceb4e8781da34917aa8d916879714b7.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiLight;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Lt-d41b94689277cce1311d8718617b083c.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Lt-016ca83d145497bde4a6a67e22dab251.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiLight;
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_LtIt-74d6a380491dfbf54b414c7c250fa83f.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_LtIt-9a54168d04f9fdb35b256c84797ef2c4.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiLight;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Lt-d41b94689277cce1311d8718617b083c.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Lt-016ca83d145497bde4a6a67e22dab251.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiLight;
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_LtIt-74d6a380491dfbf54b414c7c250fa83f.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_LtIt-9a54168d04f9fdb35b256c84797ef2c4.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiLight;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Lt-d41b94689277cce1311d8718617b083c.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_Lt-016ca83d145497bde4a6a67e22dab251.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiLight;
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_LtIt-74d6a380491dfbf54b414c7c250fa83f.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_LtIt-9a54168d04f9fdb35b256c84797ef2c4.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiSemiBold;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_SBd-b383ef38fe698fd0f3014c7dee0f9703.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_SBd-627a0c6b66cd34aa837a5c590522b242.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiSemiBold;
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_SBdIt-7eb7884f4b85b9b65aa28ee4b93143cc.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_SBdIt-69aed7464ee60d5b9afd25b83ddf619a.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiSemiBold;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_SBd-b383ef38fe698fd0f3014c7dee0f9703.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_SBd-627a0c6b66cd34aa837a5c590522b242.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiSemiBold;
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_SBdIt-7eb7884f4b85b9b65aa28ee4b93143cc.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_SBdIt-69aed7464ee60d5b9afd25b83ddf619a.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiSemiBold;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_SBd-b383ef38fe698fd0f3014c7dee0f9703.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_SBd-627a0c6b66cd34aa837a5c590522b242.woff)
+      format('woff');
+}
+@font-face {
+  font-family: RakutenSansUiSemiBold;
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_SBdIt-7eb7884f4b85b9b65aa28ee4b93143cc.woff2)
+      format('woff2'),
+    url(https://fr.shopping.rakuten.com/vstatic/0/fonts/RakutenSansUI_W_SBdIt-69aed7464ee60d5b9afd25b83ddf619a.woff)
+      format('woff');
+}
